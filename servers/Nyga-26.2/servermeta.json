@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "name": "Nyga",
+    "description": "Nyga - Minecraft 26.2 Fabric",
+    "address": "nyga.minesr.com",
+    "autoconnect": true,
+    "mainServer": true
+  },
+  "fabric": {
+    "version": "0.19.5"
+  }
+}
