@@ -1,2 +1,2 @@
 # NygaLauncher-Distribution
-Nyga Laucher files required
+Nyga Launcher files required
